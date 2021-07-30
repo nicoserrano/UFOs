@@ -25,7 +25,7 @@ To access the webpage you can click here: [Active Github Pages](https://nicoserr
 - The website displays the data in the form of a well structured table with UFO's sighting date, city, state, country, shape, duration, and additional comments. 
 - The website was designed using JavaScript and HTML. It has been well arranged and decorated using CSS and Bootstrap. 
 - To navigate through its functionality, the user would need to click on the input boxes provided to the left and enter a valid text-option for the category to be filtered. If it does not get filtered is because the input is not valid. In this case, try again. 
-- To come back to the original data without filters click on the top left where it says **UFO Sightings**. 
+- To come back to the original dataset (without filters included) click on the top left where it says **UFO Sightings** and the HTML will get redirected. 
 
 
 ## Summary
