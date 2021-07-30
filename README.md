@@ -29,4 +29,4 @@ To access the webpage you can click here: [Active Github Pages](https://nicoserr
 
 
 ## Summary
-One drawback is that the dataset used only 
+One drawback is that the dataset used only includes sightings in the US. This may affect the website because it might not get as much attention from other parts of the World. One recommendation could be to find more data online and insert it in the same data.js file following the same format. Additionally, other recommendation could be to futher decorate the website. CSS and Bootstrap have infinite options to make an even more aesthetically pleasant website. 
