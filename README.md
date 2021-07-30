@@ -27,6 +27,11 @@ To access the webpage you can click here: [Active Github Pages](https://nicoserr
 - To navigate through its functionality, the user would need to click on the input boxes provided to the left and enter a valid text-option for the category to be filtered. If you enter a incorrect fitler or a variable that does not exist in the data, you will get an empty table. In this case, try again.  
 - To come back to the original dataset (without filters included) click on the top left where it says **UFO Sightings** and the HTML will get redirected. 
 
+Filter example: 
+![UFO_Website_ss_specific](https://user-images.githubusercontent.com/83378141/127712887-e5f1e128-4b1a-4dae-8f80-2b469567fba0.png)
+
+Multi-filter example: 
+
 
 ## Summary
 One drawback is that the dataset used only includes sightings in the US. This may affect the website because it might not get as much attention from other parts of the World. One recommendation could be to find more data online and insert it in the same data.js file following the same format. Additionally, another recommendation could be to futher decorate the website. CSS and Bootstrap have infinite options to make an even more aesthetically pleasant website. 
